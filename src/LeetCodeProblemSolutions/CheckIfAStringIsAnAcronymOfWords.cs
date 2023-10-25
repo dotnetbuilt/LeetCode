@@ -1,4 +1,4 @@
-namespace Solutions;
+namespace LeetCodeProblemSolutions;
 
 public class CheckIfAStringIsAnAcronymOfWords
 {
