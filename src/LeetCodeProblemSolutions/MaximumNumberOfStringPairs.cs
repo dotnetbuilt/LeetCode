@@ -1,8 +1,8 @@
 namespace LeetCodeProblemSolutions;
 
-public class FindMaximumNumberOfStringPairs
+public class MaximumNumberOfStringPairs
 {
-    public int MaximumNumberOfStringPairs(string[] words) 
+    public int FindMaximumNumberOfStringPairs(string[] words) 
     {
         int count = 0;
         for(int i=0;i<words.Length-1;i++)
