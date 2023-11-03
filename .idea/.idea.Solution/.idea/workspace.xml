@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fcd5748-a999-4db3-ba79-f7fe77d0e3c8" name="Changes" comment="" />
+    <list default="true" id="5fcd5748-a999-4db3-ba79-f7fe77d0e3c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeProblemSolutions/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeProblemSolutions/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +90,11 @@
       <workItem from="1698400974267" duration="352000" />
       <workItem from="1698401619916" duration="2231000" />
       <workItem from="1698422176972" duration="317000" />
+      <workItem from="1698500555403" duration="90000" />
+      <workItem from="1698687429110" duration="56000" />
+      <workItem from="1698740361727" duration="1301000" />
+      <workItem from="1698748184724" duration="366000" />
+      <workItem from="1699002244426" duration="716000" />
     </task>
     <servers />
   </component>
