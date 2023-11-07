@@ -19,6 +19,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/2662952f20794507bbba46bd4696587963600/9a/5cb48ccc/02000010.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2662952f20794507bbba46bd4696587963600/7e/ab781ab6/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -94,7 +98,9 @@
       <workItem from="1698687429110" duration="56000" />
       <workItem from="1698740361727" duration="1301000" />
       <workItem from="1698748184724" duration="366000" />
-      <workItem from="1699002244426" duration="716000" />
+      <workItem from="1699002244426" duration="993000" />
+      <workItem from="1699174026082" duration="5618000" />
+      <workItem from="1699333975315" duration="2904000" />
     </task>
     <servers />
   </component>
