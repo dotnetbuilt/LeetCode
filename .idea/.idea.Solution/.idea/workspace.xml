@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fcd5748-a999-4db3-ba79-f7fe77d0e3c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeProblemSolutions/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeProblemSolutions/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="5fcd5748-a999-4db3-ba79-f7fe77d0e3c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +97,7 @@
       <workItem from="1698748184724" duration="366000" />
       <workItem from="1699002244426" duration="993000" />
       <workItem from="1699174026082" duration="5618000" />
-      <workItem from="1699333975315" duration="2904000" />
+      <workItem from="1699333975315" duration="3364000" />
     </task>
     <servers />
   </component>
